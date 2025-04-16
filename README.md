@@ -17,4 +17,4 @@ Projects for certification for freecodecamp. Saved on this repository
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+- [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
